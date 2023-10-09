@@ -4,3 +4,4 @@ fin = ""
 for i in range(0,6):
     fin += f" {int(rätt[i])-int(org[i])}"
 print(fin)
+#hej
