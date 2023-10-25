@@ -40,4 +40,3 @@ class val(däggdjur, havsDjur):
 
 
 valle = val(4, 50)
-print(valle.MaxDjup)
